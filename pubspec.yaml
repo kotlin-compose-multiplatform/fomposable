@@ -1,7 +1,7 @@
 name: fomposable
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: "Jetpack @Composable for Flutter"
+version: 0.0.2
+homepage: https://github.com/kotlin-compose-multiplatform/fomposable
 
 environment:
   sdk: ^3.5.0
